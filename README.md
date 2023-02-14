@@ -1,8 +1,10 @@
-Nombre:
+![Descripción de la imagen](https://www.conforempresarial.com/wp-content/uploads/2020/02/mecatronica.gif)
+
+Nombre: 
 
 👨‍🦱 Benjamín Soruco Guzmán 
 
-Colegio:
+Colegio:            
 
 ✝ Tercera Orden Franciscana
 
