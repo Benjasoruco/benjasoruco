@@ -5,6 +5,8 @@ Colegio:
 Pasatiempos:
 Mis pasatiempos son jugar fútbol,aprender nuevas cosas,ser activo con mi familia y amigos por lo que tengo muchas actividades con ellos,me gusta el deporte en general,escuchar música y experimentar mucho.
 Logros:
+
+
 Durante el colegio obtuve muchos logros en muchas disciplinas tales como:
 -Ser el mejor alumno en muchos años escolares 
 -Tener muchas medallas por competencias deportivas(futbol,vóley,atletismo,ajedrez)
